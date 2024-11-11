@@ -20,6 +20,7 @@ public class Application implements CommandLineRunner {
 	public void run(String...args) throws Exception{
 		logger.info("Vamos por el segundo log...");
 		logger.info("Vamos por el tercer log...");
+		logger.info("Vamos por el cuarto log...");
 	}
 
 
